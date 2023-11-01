@@ -19,4 +19,4 @@ primary_region = "gru"
 
 [mounts]
   source = "sounds"
-  destination = "/sounds"
+  destination = "/app/sounds"
